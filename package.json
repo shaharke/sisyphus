@@ -1,0 +1,22 @@
+{
+  "name": "sisyphus",
+  "description": "Zapier for the masses",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "Shahar Kedar",
+      "email": "shahar@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "request": "~2.27.0",
+    "q": "~0.9.6",
+    "lodash": "~1.3.1"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:shaharke/sisyphus.git"
+    }
+  ]
+}
